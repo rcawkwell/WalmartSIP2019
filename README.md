@@ -5,7 +5,7 @@ This page was created to be a cummulative representation of the 7 week long Girl
 This site was created by the TA of the camp. 
 
 
-#[Starter Bootstrap Code] (https://startbootstrap.com/template-overviews/freelancer/)
+## Starter Bootstrap Code 
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
